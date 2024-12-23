@@ -72,7 +72,9 @@ I'm excited to collaborate on projects involving:
 ## 📫 Let's Connect!  
 - **Email**: [febriandika4567@gmail.com](mailto:febriandika4567@gmail.com)  
 - **GitHub**: You're already here! 😄  
-- **LinkedIn**: [Febri Andika](https://www.linkedin.com/in/febri-andika-88bb2929a)  
+- **LinkedIn**: [Febri Andika](https://www.linkedin.com/in/febri-andika-88bb2929a)
+- **Portfolio**: [The Prodigy](https://prodigy-portofolio.vercel.app/) 
+
 
 ---
 
