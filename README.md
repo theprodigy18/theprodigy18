@@ -1,81 +1,95 @@
 # 👾 Hello, I'm @theprodigy18!  
 
 🎮 **Backend Programmer | Game Developer Enthusiast**  
-I'm a backend programmer passionate about **game development** and web applications. I specialize in crafting robust systems to support immersive gameplay and scalable web solutions. Currently, I'm delving deeper into **AI bots in games**, bringing intelligence and interactivity to gaming experiences.  
+🌟 Turning ideas into **immersive worlds** and **scalable systems**!  
 
 ---
 
-## 🌟 About Me  
-- 🕹️ **Focus**: Backend development for **games and web applications**.  
-- 🌐 **Languages**:  
-  - `C#`, `C++`, `TypeScript`, `JavaScript`, `PHP`, `Python`, `Java`.  
-- 🧰 **Frameworks & Tools**:  
-  - Game Development: `Unity`.  
-  - Web Development: `Express.js`, `Next.js`.  
-- 📈 **Expertise**: Building complex game systems, multiplayer backend architectures, and AI-driven game features.  
+## 🌟 **About Me**  
+💻 **Focus**:  
+- 🎮 Backend development for **games and web applications**.  
+
+🌐 **Languages & Tools**:  
+### Languages  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+### Frameworks & Tools  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+
+📈 **Expertise**:  
+- 🎲 Complex game systems: RPG mechanics, multiplayer architecture, AI-driven features.  
+- 🌐 Web systems: Scalable APIs, real-time features, robust backend solutions.  
 
 ---
 
-## 🚀 Projects  
-Here are some of the exciting projects I've worked on:  
-- **2D Turn-Based RPG**:  
-  Built a turn-based RPG inspired by classic titles like *Suikoden*. Features include intricate stat systems, diverse character classes, and unique damage mechanics like elemental immunities.  
+## 🚀 **Projects**  
+✨ Some of my proud creations:  
 
-- **Card Game (Inspired by Yu-Gi-Oh!)**:  
-  Designed and developed a digital card game system with turn-based mechanics, deck management, and real-time multiplayer functionality.  
+🎮 **2D Turn-Based RPG**:  
+- Inspired by classics like *Suikoden*.  
+- 🧙 Unique stat systems, elemental mechanics, and character classes.  
 
-- **3D Survival Game**:  
-  Created a survival game with features such as procedural world generation, resource gathering, crafting, and AI-controlled wildlife.  
+🃏 **Digital Card Game**:  
+- Turn-based mechanics, deck building, and real-time multiplayer.  
+- 🌐 Online matchmaking for duels.  
 
-- **3D Soulslike Game (Inspired by Elden Ring)**:  
-  Developed gameplay mechanics like stamina-based combat, enemy AI with complex attack patterns, and a rich, immersive open-world design.  
+🌲 **3D Survival Game**:  
+- 🌍 Procedural world generation, crafting systems, and AI wildlife.  
 
-- **Restaurant Management Web Application**:  
-  Built a full-stack system for managing restaurant orders, including multi-role support for admins and customers, using `Express.js` and `React`.  
+⚔️ **3D Soulslike Adventure**:  
+- Stamina-based combat, intricate enemy AI, and immersive open-world exploration.  
 
-- **AI-Driven Game Bots**:  
-  Researching and prototyping AI bots capable of adapting to player behavior in real-time for enhanced gameplay dynamics.  
+🍴 **Restaurant Management App**:  
+- 🛒 Order tracking, admin dashboards, and customer support via `Express.js` + `React`.  
 
----
-
-## 💡 What I Do  
-- **Game Systems**:  
-  - RPG mechanics, card game rulesets, and real-time multiplayer systems.  
-  - AI behavior trees, enemy combat patterns, and procedural content generation.  
-  - Backend architecture for online multiplayer and scalable game services.  
-
-- **Web Development**:  
-  - Building RESTful APIs and dynamic web applications with **Next.js** and **Express.js**.  
-  - Database design and optimization for performance and scalability.  
-
-- **AI Integration**:  
-  - Developing intelligent bots for games and systems.  
-  - Enhancing player immersion with procedural generation and adaptive gameplay.  
+🤖 **AI-Driven Game Bots**:  
+- Adaptive bots that evolve to player behavior, enhancing immersion and challenge.  
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced AI techniques for game bots, including neural networks and adaptive learning.  
-- Performance optimization for **3D games** in Unity.  
-- Procedural world-building and dynamic event generation.  
+## 💡 **What I Do**  
+🔍 **Game Development**:  
+- 🎲 RPG mechanics, deck-building, and AI behavior.  
+- 🕹️ Backend for multiplayer systems.  
+
+🌐 **Web Development**:  
+- 🔗 REST APIs, dynamic web applications, and database optimization.  
+
+🤖 **AI & Gameplay**:  
+- 💡 Intelligent game bots and adaptive mechanics.  
+- 🎨 Procedural generation for dynamic content.  
 
 ---
 
-## 💞️ Collaboration  
-I'm excited to collaborate on projects involving:  
-- Game development (2D, 3D, AI systems).  
-- Backend solutions for games and web applications.  
-- AI-powered systems for interactive gaming experiences.  
+## 🌱 **Currently Learning**  
+📚 Expanding my skills:  
+- 🧠 Advanced AI techniques for intelligent gameplay.  
+- 🚀 Performance optimization for large-scale 3D games.  
+- 🌍 Procedural storytelling and event generation.  
 
 ---
 
-## 📫 Let's Connect!  
-- **Email**: [febriandika4567@gmail.com](mailto:febriandika4567@gmail.com)  
-- **GitHub**: You're already here! 😄  
-- **LinkedIn**: [Febri Andika](https://www.linkedin.com/in/febri-andika-88bb2929a)
-- **Portfolio**: [The Prodigy](https://prodigy-portofolio.vercel.app/) 
-
+## 🤝 **Let's Collaborate!**  
+I'm open to teaming up on:  
+- 🕹️ **Game development** (2D, 3D, or AI systems).  
+- 🌐 **Backend solutions** for web and games.  
+- 🤖 **AI-powered gameplay** systems.  
 
 ---
 
-⚡ **Fun Fact**: Whether it’s designing intricate game systems or coding immersive worlds, I love turning imagination into reality through code!  
+## 📫 **Connect with Me!**  
+📧 **Email**: [febriandika4567@gmail.com](mailto:febriandika4567@gmail.com)  
+🔗 **LinkedIn**: [Febri Andika](https://www.linkedin.com/in/febri-andika-88bb2929a)  
+🌐 **Portfolio**: [The Prodigy](https://prodigy-portofolio.vercel.app/)  
+
+---
+
+✨ **Fun Fact**: Whether it’s designing **gameplay systems** or coding **immersive worlds**, I thrive on turning imagination into reality through code!  
