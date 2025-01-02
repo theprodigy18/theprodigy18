@@ -11,18 +11,22 @@
 
 🌐 **Languages & Tools**:  
 ### Languages  
-<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>  
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>  
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40"/>  
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>  
-<img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" height="40"/>  
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>  
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>  
+<p align="left">  
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>  
+  <img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" height="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>  
+</p>  
 
 ### Frameworks & Tools  
-<img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" height="40"/>  
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" height="40"/>  
-<img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" height="40"/>  
+<p align="left">  
+  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" height="40"/>  
+  <img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" height="40"/>  
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" height="40"/>  
+</p>  
 
 📈 **Expertise**:  
 - 🎲 Complex game systems: RPG mechanics, multiplayer architecture, AI-driven features.  
