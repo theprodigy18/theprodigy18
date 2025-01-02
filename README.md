@@ -11,18 +11,18 @@
 
 🌐 **Languages & Tools**:  
 ### Languages  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="40"/>  
+<img src="https://img.icons8.com/offices/48/000000/php-logo.png" alt="PHP" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40"/>  
 
 ### Frameworks & Tools  
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+<img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="Unity" height="40"/>  
+<img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="Node.js" height="40"/>  
+<img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" height="40"/>  
 
 📈 **Expertise**:  
 - 🎲 Complex game systems: RPG mechanics, multiplayer architecture, AI-driven features.  
@@ -48,7 +48,7 @@
 - Stamina-based combat, intricate enemy AI, and immersive open-world exploration.  
 
 🍴 **Restaurant Management App**:  
-- 🛒 Order tracking, admin dashboards, and customer support via `Express.js` + `React`.  
+- 🛒 Order tracking, admin dashboards, and customer support via `Node.js` + `React`.  
 
 🤖 **AI-Driven Game Bots**:  
 - Adaptive bots that evolve to player behavior, enhancing immersion and challenge.  
