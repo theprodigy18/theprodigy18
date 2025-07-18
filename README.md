@@ -43,7 +43,7 @@ C#, C++, TypeScript, JavaScript, PHP, Python, Java
 </p>  
 
 **Frameworks & Tools (fallback description):**  
-Unity, Node.js, Next.js, React, .NET, OpenGL, Win32 API, DirectX 12, Xlib, Vite, Express.js
+Unity, Node.js, Next.js, React, .NET, OpenGL, WinAPI, DirectX, Xlib, Vite, Express.js
 
 📈 **Expertise**:  
 - ⚙️ **Low-level programming**: memory management, platform abstraction, custom rendering pipelines.  
