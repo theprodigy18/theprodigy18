@@ -1,157 +1,112 @@
-# 👾 Hello, I'm @theprodigy18!  
+# Hi there, I'm Febri (@theprodigy18)! 👋
 
-🎮 **Game Developer | Low Level Programmer | Backend Programmer**  
-🌟 Turning ideas into **immersive worlds** and **scalable systems**!  
+**Game Developer | Backend Engineer | Low-Level Systems Programmer**
 
----
+Building immersive games and scalable backend systems from the ground up.
 
-## 🌟 **About Me**  
-💻 **Focus**:  
-- 🎮 Backend development for **games, web applications**, and **custom game engines**.  
-- 🧠 Deep focus on **low-level systems** and **performance-critical code**.
+## 🎯 Developer Profile
 
-🌐 **Languages**:  
-<p align="left">  
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" alt="TypeScript" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" height="40"/>  
-</p>  
+<div align="center">
+  
+**Primary Focus Areas:**
+  
+```
+🎮 Game Development          ████████████████████████████████████   95%
+⚙️ Game Engine Architecture  ██████████████████████████████████     90%
+🔧 Low-Level Programming     ████████████████████████████████       85%
+🌐 Backend Systems           ██████████████████████████████         80%
+🤖 AI & Procedural Systems   ███████████████████████████            75%
+```
 
-*Languages (fallback description):*  
-C++, C#, C, JavaScript, TypeScript, Python, Java
+</div>
 
-🛠️ **Frameworks & Tools**:  
-<p align="left">  
-  <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=000000" alt="Unity" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" alt=".NET" height="40"/>  
-  <img src="https://th.bing.com/th/id/R.411f0849e6b1294b559db8de67ffc92d?rik=55nlLvClFYy6cQ&riu=http%3a%2f%2f2.bp.blogspot.com%2f_F-UIww-iEag%2fSp3rAO_q8gI%2fAAAAAAAAAHc%2fhJ5jFEjGGSg%2fs320%2fOpenGL_ai.png&ehk=Kr%2f3SVU92NDjSDW7RenAg3pjJTvgxxZmLze37AhYMok%3d&risl=&pid=ImgRaw&r=0" alt="OpenGL" height="40"/>
-  <img src="https://2.bp.blogspot.com/-cNLgo_YcVMI/WU4xPrM1-rI/AAAAAAAAAOg/pYfLnHE3sj0XI7cAmblllJ7l41g-8qD2gCLcBGAs/s1600/Dx11.png" alt="DirectX" height="40"/> 
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Node.js" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="Next.js" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" height="40"/>  
-  <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" alt="Vite" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Express.js" height="40"/>
-</p>  
+## 🛠️ Tech Stack
 
-*Frameworks & Tools (fallback description):*  
-Unity, .NET, OpenGL,  DirectX, Node.js, Next.js, React, Vite, Express.js
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
-📈 **Expertise**:  
-- ⚙️ **Low-level programming**: memory management, platform abstraction, custom rendering pipelines.  
-- 🧱 **Game engine architecture**: modular systems, scripting backends, and asset pipelines.  
-- 🎲 Complex game mechanics: RPG systems, card battles, and intelligent AI behavior.  
-- 🌐 Real-time systems: multiplayer architecture, websockets, matchmaking, server-authoritative design.
+### Tools & Frameworks
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
+![DirectX](https://img.shields.io/badge/DirectX-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
----
+## 📊 GitHub Stats
 
-## 🚀 Projects  
-✨ Highlighted technical achievements and game development milestones:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theprodigy18&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</div>
 
-### 🎮 2D Turn-Based RPG  
-*Inspired by classic titles like **Suikoden***  
-- Developed a full turn-based battle system with initiative order, elemental affinities, and combo attacks.  
-- Custom class/rune system allowing character builds to evolve based on choices.  
-- Branching storyline with persistent world states and multiple endings.  
-- Built using a modular entity-component system with minimal runtime overhead.
+## 🎮 Real-Time Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theprodigy18&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
-### 🃏 Online Digital Card Game  
-*Strategic PvP gameplay with ranking and meta-evolution*  
-- Real-time matchmaking server using WebSockets and tick-based synchronization.  
-- Deck construction system with rarity balancing and meta-tag synergy.  
-- Built-in ELO-based ranking and seasonal progression system.  
-- Full replay system and turn validator for anti-cheat and analysis.
+## 🏆 Achievement Unlocked
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theprodigy18&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
 
-### 🌲 3D Survival Game  
-*Dynamic, living world with real-time simulation*  
-- Procedurally generated biomes with voxel-based terrain and seamless LOD.  
-- Crafting system driven by resource types, decay, and weather interactions.  
-- AI ecosystem simulating predator-prey behaviors, hunger cycles, and adaptation.  
-- Designed modular systems to support modding and world persistence.
+## 🎯 Core Expertise
 
+- **Game Development**: Turn-based RPGs, MMO architecture, custom game engines
+- **Low-Level Programming**: Memory management, SIMD optimization, platform abstraction
+- **Backend Systems**: Real-time multiplayer, WebSocket servers, distributed architecture
+- **AI & Procedural Systems**: Behavior trees, adaptive AI, procedural content generation
 
-### ⚔️ 3D Soulslike Adventure  
-*Challenging combat and handcrafted world design*  
-- Implemented stamina-based combat mechanics with I-frames, parries, and recovery windows.  
-- Custom pathfinding AI with terrain awareness and multi-phase boss behaviors.  
-- Open-world structure with verticality, shortcuts, and environmental storytelling.  
-- Internal level editor to speed up world building and navmesh generation.
+## 🚀 Featured Repositories
 
+<div align="center">
 
-### 🌐 MMORPG (In Progress)  
-*Architecture focused on scalability and real-time performance*  
-- Built distributed server backend supporting instancing, zoning, and player clustering.  
-- ECS architecture with serialization layers for state sync and rollback logic.  
-- Real-time networking with interest management and delta compression.  
-- Designed authentication, guild, and party systems for future extensibility.
+[![DropMath](https://github-readme-stats.vercel.app/api/pin/?username=theprodigy18&repo=dropmath&theme=dark&hide_border=true)](https://github.com/theprodigy18/dropmath)
+[![DropEngine](https://github-readme-stats.vercel.app/api/pin/?username=theprodigy18&repo=dropengine&theme=dark&hide_border=true)](https://github.com/theprodigy18/dropengine)
 
+</div>
 
-### 🛠️ Custom C++ Game Engine  
-*Performance-oriented, modular design*  
-- Written from scratch in C++ with DirectX and OpenGL backends.  
-- Abstraction layer over Win32 and Xlib for cross-platform window/input systems.  
-- Integrated **Dear ImGui** for tooling (scene editor, profiler, asset manager).  
-- Custom memory allocators and SIMD math library to maximize performance.  
-- Optional Python bindings for utility scripting and automation.
+## 🚀 Featured Projects
 
+**🧮 DropMath - C++ Math Library**  
+High-performance mathematics library built from scratch with SIMD optimizations, custom vector/matrix operations, and game-focused mathematical functions.
 
-### 📊 Restaurant Management Web App  
-*Modern full-stack development for business needs*  
-- Built with **Node.js**, **Express**, and **React**, leveraging RESTful APIs and WebSocket for live updates.  
-- Role-based authentication with dynamic dashboards for different user types (admin, kitchen, waiter).  
-- Charting and analytics using Chart.js and real-time database sync.  
-- Modular backend for future expansion into mobile apps or third-party APIs.
+**🎮 DropEngine - Custom C Game Engine**  
+Built from scratch with DirectX/OpenGL/Vulkan backends, custom memory allocators, multi-platform for linux and windows via Win32/X11.
 
+**🌐 MMORPG Backend** *(In Progress)*  
+Distributed server architecture with ECS design, real-time networking, and scalable instancing.
 
-### 🤖 AI-Driven Game Bots & Systems  
-*Procedural intelligence for dynamic gameplay*  
-- Developed AI that adapts to player strategy through reinforcement signals and pattern tracking.  
-- Procedural mission generator using goal-driven planning (GOAP-style) for sandbox games.  
-- Behavior trees with runtime editing for debugging and design iteration.  
-- Applied fuzzy logic to control group behaviors and emergent storytelling.
+**🃏 Online Card Game**  
+Real-time PvP with WebSocket matchmaking, ELO ranking, and server-side validation.
 
+**⚔️ 3D Soulslike**  
+Stamina-based combat system with AI pathfinding and procedural level generation.
+
+## 📈 Currently Exploring
+
+- Cross-platform abstraction layer best practices
+- Vulkan API and modern graphics programming
+- Scalable game server architectures
+- MMO game system design and optimization
+- Deep dive into rendering pipelines across all graphics APIs (OpenGL, DirectX, Vulkan)
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/febri-andika-88bb2929a)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://prodigy-portofolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:febriandika4567@gmail.com)
 
 ---
 
-## 💡 **What I Do**  
-🎮 **Game Development**:  
-- Turn-based, action RPG, and MMO architecture.  
-- Engine-level programming and real-time systems.  
-
-🌐 **Backend Development**:  
-- High-performance APIs, scalable services, and multiplayer backends.  
-
-🧠 **AI & Procedural Systems**:  
-- Dynamic worlds and adaptive systems for immersive experiences.  
-
----
-
-## 🌱 **Currently Learning & Exploring**  
-- 🧠 Advanced AI for gameplay: state machines, behavior trees, machine learning.  
-- 📦 Custom game asset pipelines & editor tooling.  
-- 🌍 World state sync & scalability for MMORPG.  
-- 🧰 Cross-platform compatibility with low-level APIs.
-
----
-
-## 🤝 **Let’s Collaborate!**  
-💬 Open to:  
-- 🎮 Game development teams (RPG/MMO/AI).  
-- ⚙️ Engine development & optimization.  
-- 🌐 Backend & infrastructure for games.  
-
----
-
-## 📫 **Connect with Me!**  
-📧 **Email**: [febriandika4567@gmail.com](mailto:febriandika4567@gmail.com)  
-🔗 **LinkedIn**: [Febri Andika](https://www.linkedin.com/in/febri-andika-88bb2929a)  
-🌐 **Portfolio**: [The Prodigy](https://prodigy-portofolio.vercel.app/)  
-
----
-
-✨ **Fun Fact**: I'm not just building **games**, I'm building the **tools and engines** to bring them to life—down to the bits and bytes.  
+*Building games and the engines that power them, one commit at a time.*
